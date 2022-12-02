@@ -10,6 +10,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: bisque;
+  background-color: orangered;
+  color: #fff;
   font-size: 40px;
 }
